@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white target="_blank")](https://www.linkedin.com/in/kumarom/)  <br> <br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white) (target="_blank") ](https://www.linkedin.com/in/kumarom/) <br> <br>
 [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://www.quora.com/profile/Om-Kumar-2753) <br> <br>
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)]((mailto:officialomnarayan@gmail.com)) <br> <br>
 
