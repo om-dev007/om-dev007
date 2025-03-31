@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Om<br>🔭 I’m currently working on my Website<br>👯 I’m looking to collaborate on real world projects<br>🤝 I’m looking for help with my Web Development Journey<br>🌱 I’m currently learning JavaScript<br>💬 Ask me about <br>⚡ Fun fact I am not funny as you think
+👋 Hi, I’m Om<br>🔭 I’m currently working on my Website<br>👯 I’m looking to collaborate on real world projects<br>🤝 I’m looking for help with my Web Development Journey<br>🌱 I’m currently learning JavaScript<br>💬 Ask me about web development <br>⚡ Fun fact I am not funny as you think
 
 
 ## 🌐 Socials:
