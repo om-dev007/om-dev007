@@ -29,7 +29,7 @@
 <div align="center">
   
 🚀 **Visitor Count**  
-<br> <br>
+<br>
 ![Visitor Count](https://komarev.com/ghpvc/?username=om-dev007&color=blueviolet&style=flat)
 
 </div>
