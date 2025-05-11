@@ -2,10 +2,12 @@
 👋 Hi, I’m Om<br>🔭 I’m currently exploring JavaScript Libraries<br>👯 I’m looking to collaborate on real world projects<br>🤝 I’m looking for help with my Web Development Journey<br>🌱 I’m currently learning JavaScript<br>💬 Ask me about web development <br>⚡ Fun fact Dark mode is my default personality<br>
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kumarom/) <br> <br>
-[![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://www.quora.com/profile/Om-Kumar-2753) <br> <br>
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)]((mailto:officialomnarayan@gmail.com)) <br> <br>
+## 🌐 Socials
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kumarom/)
+[![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white)](https://www.quora.com/profile/Om-Kumar-2753)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:officialomnarayan@gmail.com)
+
 
  ### 💻 Tech Stack:
 
