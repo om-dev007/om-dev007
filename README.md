@@ -7,7 +7,7 @@
 [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://www.quora.com/profile/Om-Kumar-2753) <br> <br>
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)]((mailto:officialomnarayan@gmail.com)) <br> <br>
 
- ### 💻 Tech Stack
+ ### 💻 Tech Stack:
 
 #### 📝 **Languages**
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
