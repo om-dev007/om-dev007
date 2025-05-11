@@ -2,7 +2,7 @@
 👋 Hi, I’m Om<br>🔭 I’m currently exploring JavaScript Libraries<br>👯 I’m looking to collaborate on real world projects<br>🤝 I’m looking for help with my Web Development Journey<br>🌱 I’m currently learning JavaScript<br>💬 Ask me about web development <br>⚡ Fun fact Dark mode is my default personality<br>
 
 
-## 🌐 Socials
+## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kumarom/)
 [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white)](https://www.quora.com/profile/Om-Kumar-2753)
@@ -68,7 +68,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=om-dev007&theme=tokyonight&hide_border=true&layout=compact&count_private=true&include_all_commits=true)
 
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies:
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=om-dev007&theme=radical&no-frame=true&no-bg=false&margin-w=10" alt="GitHub Trophies"/>
