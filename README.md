@@ -12,6 +12,8 @@
 # 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=om-dev007&show_icons=true&theme=tokyonight&hideborder=false) <br>
 ![](https://nirzak-streak-stats.vercel.app/?user=om-dev007&theme=tokyonight&hide_border=true)<br/>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=om-dev007&count_private=true)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=om-dev007&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
