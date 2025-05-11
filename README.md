@@ -67,10 +67,11 @@
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=om-dev007&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
----
-[![](https://visitcount.itsvg.in/api?id=om-dev007&icon=2&color=1)](https://visitcount.itsvg.in)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=om-dev007&theme=radical&no-frame=true&no-bg=false&margin-w=10" alt="GitHub Trophies"/>
+</p>
+
 
 
 <div align="center">
