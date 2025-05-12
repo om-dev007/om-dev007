@@ -62,7 +62,8 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=om-dev007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
 
 <!-- GitHub Streak -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=om-dev007&theme=tokyonight&hide_border=true&count_private=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=om-dev007&count_private=true&theme=tokyonight&hide_border=false)
+
 
 <!-- Top Languages -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=om-dev007&theme=tokyonight&hide_border=true&layout=compact&count_private=true&include_all_commits=true)
