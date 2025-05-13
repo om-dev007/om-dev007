@@ -62,7 +62,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=om-dev007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
 
 <!-- GitHub Streak -->
-![GitHub Streak](https://streak-stats.demolab.com?user=om-dev007&count_private=true&theme=tokyonight&hide_border=false)
+<img src="https://streak-stats.demolab.com?user=om-dev007&theme=tokyonight&hide_border=false&count_private=true" alt="GitHub Streak" />
 
 
 <!-- Top Languages -->
