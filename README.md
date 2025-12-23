@@ -3,7 +3,7 @@
 🔭 Currently exploring **JavaScript Libraries**  
 👯 Open to collaborate on **real world projects**  
 🤝 Looking for help with my **Web Development Journey**  
-🌱 Learning **JavaScript & Backend Development**  
+🌱 Learning ** Backend Development**  
 💬 Ask me about **Web Development & Programming**  
 ⚡ Fun fact: **Dark mode is my default personality**  
 
@@ -44,9 +44,6 @@
 #### 🖥️ **Backend**
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-black?style=for-the-badge&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
 ---
 
@@ -61,23 +58,17 @@
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 
 ---
 
 # 📊 GitHub Stats:
-<!-- Public-friendly GitHub stats (removed private-count params that often cause errors) -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=om-dev007&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
 
-<!-- Streak: primary (Heroku) with a fallback commented below -->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=om-dev007&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <!-- Fallback if above doesn't load, uncomment the line below and comment the heroku one:
-  <img src="https://streak-stats.demolab.com?user=om-dev007&theme=tokyonight&hide_border=true" alt="GitHub Streak (fallback)" />
-  -->
 </p>
 
 <p align="center">
