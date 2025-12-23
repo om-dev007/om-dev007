@@ -4,7 +4,7 @@
 👯 Open to collaborate on **real world projects**  
 🤝 Looking for help with my **Web Development Journey**  
 🌱 Learning **Backend Development**  
-💬 Ask me about **Web Development & Programming** 
+💬 Ask me about **Web Development & Programming** <br>
 ⚡ Fun fact: **Dark mode is my default personality**  
 
 ---
