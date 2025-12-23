@@ -75,12 +75,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=om-dev007&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
 </p>
 
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=om-dev007&theme=radical&no-frame=true&no-bg=false&margin-w=10" alt="GitHub Trophies"/>
-</p>
-
 ---
 
 <div align="center">
