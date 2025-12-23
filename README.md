@@ -3,8 +3,8 @@
 🔭 Currently exploring **JavaScript Libraries**  
 👯 Open to collaborate on **real world projects**  
 🤝 Looking for help with my **Web Development Journey**  
-🌱 Learning ** Backend Development**  
-💬 Ask me about **Web Development & Programming**  
+🌱 Learning **Backend Development**  
+💬 Ask me about **Web Development & Programming** 
 ⚡ Fun fact: **Dark mode is my default personality**  
 
 ---
@@ -35,10 +35,6 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![Three.js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
-
 ---
 
 #### 🖥️ **Backend**
