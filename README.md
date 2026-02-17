@@ -2,7 +2,7 @@
 👋 Hi, I'm Om   
 🌐 Web Development Enthusiast  
 💻 Creating responsive & interactive websites  
-🌱 Learning Backend Development & APIs
+🌱 Learning Backend Development & APIs  
 🚀 Interested in scalable web applications  
 📚 Computer Science student (2028)  
 ⚡ Learning by building real projects
