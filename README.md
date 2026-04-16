@@ -52,7 +52,7 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<p align="left">
   <img src="https://streak-stats.demolab.com?user=om-dev007&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" width="41%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=om-dev007&layout=compact&theme=dark&hide_border=true&count_private=true" width="35%" />
 </p>
