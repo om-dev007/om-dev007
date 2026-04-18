@@ -4,7 +4,6 @@
 💻 Full Stack Developer (Learning & Building)  
 🚀 Focused on Backend Development & Scalable Systems  
 🌱 Currently exploring APIs, Authentication & System Design  
-📚 Computer Science Student (2028)  
 
 ---
 
